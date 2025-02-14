@@ -1,0 +1,5 @@
+﻿CREATE TABLE [tbl_User] (
+  [UserId] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [UserName] VARCHAR (255),
+  [Password] VARCHAR (255)
+)

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "tbl_Unittbl_Chq_Pl",
+    "Attributes": 0,
+    "Table": "tbl_Unit",
+    "ForeignTable": "tbl_Chq_Pl",
+    "Fields": [
+      {
+        "Name": "Unit_Id",
+        "ForeignName": "Unit_Id"
+      }
+    ]
+  }
+}

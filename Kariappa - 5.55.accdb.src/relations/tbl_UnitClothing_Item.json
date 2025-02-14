@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "tbl_UnitClothing_Item",
+    "Attributes": 2,
+    "Table": "tbl_Unit",
+    "ForeignTable": "tbl_Clothing_Item",
+    "Fields": [
+      {
+        "Name": "Unit_Id",
+        "ForeignName": "Unit_Id"
+      }
+    ]
+  }
+}

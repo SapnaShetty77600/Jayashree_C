@@ -1,0 +1,4 @@
+﻿CREATE TABLE [tbl_Unit] (
+  [Unit_Id] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Unit_Name] VARCHAR (255)
+)

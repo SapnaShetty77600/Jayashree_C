@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "Clothing_ItemCombatant_Clothing_Card_Item",
+    "Attributes": 4352,
+    "Table": "tbl_Clothing_Item",
+    "ForeignTable": "tbl_Combatant_Clothing_Card_Item",
+    "Fields": [
+      {
+        "Name": "Clothing_Item_Id",
+        "ForeignName": "Clothing_Item_Id"
+      }
+    ]
+  }
+}

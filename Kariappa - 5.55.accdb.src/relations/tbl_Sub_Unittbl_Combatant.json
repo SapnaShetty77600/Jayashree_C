@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "tbl_Sub_Unittbl_Combatant",
+    "Attributes": 0,
+    "Table": "tbl_Sub_Unit",
+    "ForeignTable": "tbl_Combatant",
+    "Fields": [
+      {
+        "Name": "Sub_Unit_Id",
+        "ForeignName": "Sub_Unit_Id"
+      }
+    ]
+  }
+}

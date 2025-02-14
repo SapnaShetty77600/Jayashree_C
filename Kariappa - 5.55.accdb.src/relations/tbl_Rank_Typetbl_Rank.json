@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "tbl_Rank_Typetbl_Rank",
+    "Attributes": 0,
+    "Table": "tbl_Rank_Type",
+    "ForeignTable": "tbl_Rank",
+    "Fields": [
+      {
+        "Name": "Rank_Type_Id",
+        "ForeignName": "Rank_Type"
+      }
+    ]
+  }
+}
